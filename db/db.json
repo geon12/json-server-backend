@@ -2,53 +2,151 @@
   "exercises": [
     {
       "id": 1,
-      "name": "Woody",
-      "description": "rjgnr riiregjre rigjrengr irgireng rjngregire ringreigj",
-      "video": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "type": 8
+      "name": "Pushups",
+      "description": "Raise and lower your body to the ground using your arms.",
+      "video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+      "type": "Strength Training"
     },
     {
       "id": 2,
-      "name": "Woody",
-      "description": "rjgnr riiregjre rigjrengr irgireng rjngregire ringreigj",
-      "video": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "type": 8
+      "name": "Sit-ups",
+      "description": "Start by lying on your back with your arms across your chest and your knees bent. Using your abdominal muscles, lift your chest toward your knees.",
+      "video": "https://www.youtube.com/watch?v=jDwoBqPH0jk",
+      "type": "Strength training"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Jumping Jacks",
+      "description": "Alternate between jumping with you legs out wide and hands over your head to a resting position with hands at your side and feet together.",
+      "video": "https://www.youtube.com/watch?v=1b98WrRrmUs",
+      "type": "Aerobic"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "High Steps",
+      "description": "Walk or run in place, while bringing your knees as high as possible.",
+      "video": "https://www.youtube.com/watch?v=u6oYV3aaKNc",
+      "type": "Aerobic"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Squats",
+      "description": "While standing, lower your hips than rise back up using your lower body.",
+      "video": "https://www.youtube.com/watch?v=aclHkVaku9U",
+      "type": "Strength Training"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Burpees",
+      "description": "Go to the ground, do a pushup, then leap back up.",
+      "video": "https://www.youtube.com/watch?v=dZgVxmf6jkA",
+      "type": "Aerobic"
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Plank",
+      "description": "Hold your body weight with your forearms like you're doing a pushup that never ends.",
+      "video": "https://www.youtube.com/watch?v=ASdvN_XEl_c",
+      "type": "Strength Training"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Jump rope",
+      "description": "Jump over the rope as it passes by your feet.",
+      "video": "https://www.youtube.com/watch?v=u3zgHI8QnqE",
+      "type": "Aerobic"
+    },
+    {
+      "id": 9,
+      "name": "Curls",
+      "description": "With weights in your hands, lift them up from your sides to your chest.",
+      "video": "https://www.youtube.com/watch?v=Nkl8WnH6tDU",
+      "type": "Strength Training"
+    },
+    {
+      "id": 10,
+      "name": "Lunges",
+      "description": "Put one leg forward, bent a the knee.",
+      "video": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+      "type": "Strength Training"
+    },
+    {
+      "id": 11,
+      "name": "Calf raise",
+      "description": "Lift yourself up by pushing off the front of your feet and extending your calves.",
+      "video": "https://www.youtube.com/watch?v=UV8gOrHmuKc",
+      "type": "Strength Training"
+    },
+    {
+      "id": 12,
+      "name": "Wall Sit",
+      "description": "Press your back against the wall and sit at a 90 degree angle(no chair!)",
+      "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+      "type": "Strength Training"
+    },
+    {
+      "id": 13,
+      "name": "Run in Place",
+      "description": "Run in place without moving from your position.",
+      "video": "https://www.youtube.com/watch?v=JZ1T3z3K-5M",
+      "type": "Aerobic"
+    },
+    {
+      "id": 14,
+      "name": "Flutter Kick",
+      "description": "Lying on your back, extend your legs above the ground. Alternately move each leg up and down without touching the ground.",
+      "video": "https://www.youtube.com/watch?v=e_s7uBNPnow",
+      "type": "Aerobic"
+    },
+    {
+      "id": 15,
+      "name": "Butterfly Stretch",
+      "description": "With your legs to your sides, bring the bottom of your feet together. Gently press your knees with your elbows.",
+      "video": "https://www.youtube.com/watch?v=MdE_Cj6ChLo",
+      "type": "Stretch"
+    },
+    {
+      "id": 16,
+      "name": "Standing Hamstring Stretch",
+      "description": "Extend one leg out and bend slightly at the knee with the other leg.",
+      "video": "https://www.youtube.com/watch?v=tZLqLxmSjjU",
+      "type": "Stretch"
+    },
+    {
+      "id": 17,
+      "name": "Triceps stretch",
+      "description": "Grab your elbow with the opposite hand and pull towards your head.",
+      "video": "https://www.youtube.com/watch?v=hSaqjF0dMMg",
+      "type": "Stretch"
+    },
+    {
+      "id": 18,
+      "name": "Pull-Up",
+      "description": "Hanging from a bar, pull yourself up so your chin can touch the bar.",
+      "video": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+      "type": "Strength Training"
+    },
+    {
+      "id": 19,
+      "name": "Bicycle Kick",
+      "description": "Lying on your back, raise your legs up and kick as you were pedaling a bike.",
+      "video": "https://www.youtube.com/watch?v=UZZhuJACZJM",
+      "type": "Aerobic"
     }
+  ],
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Workout 1",
+      "description": "rjgnr riiregjre rigjrengr irgireng rjngregire ringreigj",
+      "Exercises": [{"name": "Pushups", "exercise-id": 1, "length": 5}, {"name": "Sit-ups", "exercise-id": 2, "length": 2}]
+    },
+    {
+      "id": 2,
+      "name": "Workout 2",
+      "description": "rjgnr riiregjre rigjrengr irgireng rjngregire ringreigj",
+      "Exercises": [{"name": "Pushups", "exercise-id": 1, "length": 5}, {"name": "Sit-ups", "exercise-id": 2, "length": 2}]
+    }
+
   ]
 }
