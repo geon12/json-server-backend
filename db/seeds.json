@@ -136,34 +136,159 @@
   ],
   "workouts": [
     {
-      "id": 1,
-      "name": "Workout 1",
-      "description": "rjgnr riiregjre rigjrengr irgireng rjngregire ringreigj",
-      "Exercises": [
+      "name": "Build up Strength",
+      "description": "Want to get stronger. Build up your arm and leg muscles.",
+      "exercises": [
         {
           "exercise-id": 1,
-          "length": 5
+          "length": 2
         },
         {
-          "exercise-id": 2,
+          "exercise-id": 5,
           "length": 2
+        },
+        {
+          "exercise-id": 12,
+          "length": 1
+        },
+        {
+          "exercise-id": 18,
+          "length": 2
+        },
+        {
+          "exercise-id": 9,
+          "length": 2
+        },
+        {
+          "exercise-id": 1,
+          "length": 3
         }
-      ]
+      ],
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Workout 2",
-      "description": "rjgnr riiregjre rigjrengr irgireng rjngregire ringreigj",
-      "Exercises": [
+      "name": "Leg Day",
+      "description": "Work on your leg muscles.",
+      "exercises": [
         {
-          "exercise-id": 1,
+          "exercise-id": 5,
+          "length": 2
+        },
+        {
+          "exercise-id": 14,
+          "length": 3
+        },
+        {
+          "exercise-id": 11,
+          "length": 2
+        },
+        {
+          "exercise-id": 10,
+          "length": 4
+        },
+        {
+          "exercise-id": 4,
+          "length": 3
+        },
+        {
+          "exercise-id": 13,
+          "length": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Endurance Workout",
+      "description": "Build up your endurance.",
+      "exercises": [
+        {
+          "exercise-id": 3,
+          "length": 2
+        },
+        {
+          "exercise-id": 6,
+          "length": 1
+        },
+        {
+          "exercise-id": 19,
+          "length": 2
+        },
+        {
+          "exercise-id": 13,
           "length": 5
         },
         {
-          "exercise-id": 2,
+          "exercise-id": 3,
           "length": 2
         }
-      ]
+      ],
+      "id": 3
+    },
+    {
+      "name": "Stretch out",
+      "description": "Improve your flexibility and balance.",
+      "exercises": [
+        {
+          "exercise-id": 15,
+          "length": 2
+        },
+        {
+          "exercise-id": 16,
+          "length": 2
+        },
+        {
+          "exercise-id": 17,
+          "length": 3
+        },
+        {
+          "exercise-id": 16,
+          "length": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "All around Workout",
+      "description": "Workout different body parts",
+      "exercises": [
+        {
+          "exercise-id": 1,
+          "length": 2
+        },
+        {
+          "exercise-id": 2,
+          "length": 4
+        },
+        {
+          "exercise-id": 3,
+          "length": 2
+        },
+        {
+          "exercise-id": 7,
+          "length": 1
+        },
+        {
+          "exercise-id": 13,
+          "length": 2
+        },
+        {
+          "exercise-id": 9,
+          "length": 3
+        },
+        {
+          "exercise-id": 12,
+          "length": 1
+        },
+        {
+          "exercise-id": 5,
+          "length": 3
+        },
+        {
+          "exercise-id": 1,
+          "length": 2
+        }
+      ],
+      "id": 5
     }
   ]
 }
